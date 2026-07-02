@@ -1,0 +1,8 @@
+tests/
+examples/
+scripts/
+tsconfig.json
+tsup.config.ts
+.gitignore
+.github/
+package-lock.json
