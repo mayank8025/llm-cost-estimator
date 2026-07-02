@@ -1,5 +1,5 @@
 {
-  "name": "llm-cost-estimator",
+  "name": "llm-cost-estimator-now",
   "version": "0.1.0",
   "description": "Estimate token usage and cost across OpenAI, Anthropic, Gemini and more — as a library, CLI, and terminal dashboard.",
   "keywords": ["llm", "openai", "anthropic", "gemini", "tokens", "cost", "pricing", "ai", "cli"],
@@ -15,7 +15,7 @@
     }
   },
   "bin": {
-    "llm-cost": "./dist/cli.js"
+    "llm-cost": "dist/cli.js"
   },
   "files": [
     "dist",
